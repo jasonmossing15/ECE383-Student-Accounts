@@ -17,7 +17,7 @@ Link to accounts for ECE383 teachers and students.
 - Ryan Good
 - John Miller
 - Kevan Mordan
-- Jason Mossing
+- [Jason Mossing](https://github.com/jasonmossing15)
 - Geoffrey Novakowski
 - William Parks
 - James Rasmussen
